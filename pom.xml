@@ -60,7 +60,7 @@
 		<dependency>
 			<groupId>commons-net</groupId>
 			<artifactId>commons-net</artifactId>
-			<version>3.3</version>
+			<version>3.9.0</version>
 		</dependency>
 		<!--导入配置文件处理器，配置文件进行绑定就会有提示-->
 		<dependency>
